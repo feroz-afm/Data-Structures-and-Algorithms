@@ -26,3 +26,4 @@ Binary Search 6
  cout << "Not found" << endl;
  return 0;
 }
+
